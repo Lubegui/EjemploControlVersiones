@@ -11,5 +11,9 @@ PerimetroTriangulo <- function(a,b,c){
 }
 
 PerimetroTrapecio <- function(L,l){
+<<<<<<< HEAD
   return((l+L)*2)
+=======
+  return(2*(l+L))
+>>>>>>> Rama3
 }
