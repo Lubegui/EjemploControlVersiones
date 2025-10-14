@@ -9,3 +9,7 @@ LongitudCircunf <- function(R){
 PerimetroTriangulo <- function(a,b,c){
   return(a+b+c)
 }
+
+PerimetroTrapecio <- function(L,l){
+  return((l+L)*2)
+}
