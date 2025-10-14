@@ -28,4 +28,11 @@ alturaT <- 4
 areaTriangulo <- baseT*alturaT/2
 ```
 
+# Área rectángulo
+```{r}
+baserec <- 3
+alturarec <- 4
+arearec <- baserec*alturarec
+```
+
 
