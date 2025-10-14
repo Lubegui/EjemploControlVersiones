@@ -35,4 +35,13 @@ alturarec <- 4
 arearec <- baserec*alturarec
 ```
 
+# Área trapecio
+```{r}
+b <- 4
+B <- 5
+H <- 3
+
+areaTrapecio <- (b+B)*H/2
+```
+
 
